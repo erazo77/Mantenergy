@@ -1,0 +1,167 @@
+[
+  {
+    "id": "remodelacion_01",
+    "titulo": "Trabajo ejecutado garantizando un suministro estable y seguro.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.49.19 PM.jpeg",
+    "categoria": {
+"nombre": "servicio",
+      "id": "electric"
+    }
+ 
+  },
+
+  {
+    "id": "remodelacion_02",
+    "titulo": "Instalación eléctrica realizada con estándares de seguridad y calidad.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.49.09 PM.jpeg",
+    "categoria": {
+     "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+
+  {
+    "id": "remodelacion_03",
+    "titulo": "Proyecto de mantenimiento preventivo para optimizar el sistema eléctrico.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.49.12 PM.jpeg",
+    "categoria": {
+     "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+  {
+    "id": "remodelacion_04",
+    "titulo": "Adecuación eléctrica realizada según requerimientos del cliente.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.49.18 PM (1).jpeg",
+    "categoria": {
+   "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+  {
+    "id": "remodelacion_05",
+    "titulo": "Instalación y organización de cableado para una operación eficiente.",
+    "imagen":"./img/WhatsApp Image 2025-12-04 at 8.49.18 PM (2).jpeg",
+    "categoria": {
+    "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+  {
+    "id": "remodelacion_06",
+    "titulo": "Punto eléctrico instalado siguiendo normativas técnicas vigentes.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.49.18 PM.jpeg",
+    "categoria": {
+   "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+  {
+    "id": "remodelacion_07",
+    "titulo": "Revisión y corrección de conexiones para mayor seguridad.",
+    "imagen":"./img/WhatsApp Image 2025-12-04 at 8.49.19 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_08",
+    "titulo": "Mejoramiento de red eléctrica para un mejor rendimiento.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.51.05 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_09",
+    "titulo": "Instalación realizada para garantizar estabilidad y funcionamiento continuo.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.51.12 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+    {
+    "id": "remodelacion_10",
+    "titulo": "Ajuste y optimización de sistema eléctrico existente.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.51.13 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+     {
+    "id": "remodelacion_11",
+    "titulo": "Trabajo efectuado con enfoque en durabilidad y orden del cableado.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.53.00 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+     {
+    "id": "remodelacion_12",
+    "titulo": "Proyecto de conexión segura en entorno residencial/industrial.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.53.01 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+     {
+    "id": "remodelacion_13",
+    "titulo": "Instalación diseñada para soportar cargas eléctricas adecuadas.",
+    "imagen":"./img/WhatsApp Image 2025-12-04 at 8.53.02 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+     {
+    "id": "remodelacion_14",
+    "titulo": "Reacondicionamiento eléctrico para mejorar eficiencia.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.53.11 PM (1).jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+     {
+    "id": "remodelacion_15",
+    "titulo": "Trabajo efectuado con enfoque en durabilidad y orden del cableado.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.53.11 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+     {
+    "id": "remodelacion_16",
+    "titulo": "Implementación de solución eléctrica según plano y requerimientos técnicos.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.53.12 PM (1).jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+     {
+    "id": "remodelacion_16",
+    "titulo": "Trabajo realizado con técnica limpia, precisa y orientada a resultados.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.53.12 PM.jpeg",
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  }
+
+]
