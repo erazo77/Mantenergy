@@ -1,0 +1,252 @@
+[
+  {
+    "id": "remodelacion_01",
+    "titulo": "⚡ Instalación de tomas, interruptores y luminarias.",
+    "imagenes": [
+      "./img/Luminaria_1.jpg",
+      "./img/Luminaria_2.jpg",
+      "./img/Luminaria_3"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_02",
+    "titulo": "⚡ Instalación eléctrica completa en viviendas.",
+    "imagenes": [
+      "./img/WhatsApp Image 2025-12-04 at 8.49.09 PM.jpeg",
+      "./img/WhatsApp Image 2025-12-04 at 8.49.12 PM.jpeg",
+      "./img/instalacion electrica completa_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_03",
+    "titulo": "⚡ Ampliación y reubicación de puntos eléctricos.",
+    "imagen": "./img/WhatsApp Image 2025-12-04 at 8.49.12 PM.jpeg",
+    "imagenes": [
+      "./img/traslado de tomas_1.png",
+      "./img/traslado de tomas_2.png",
+      "./img/traslado de tomas_3.png"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_04",
+    "titulo": "⚡ Cambio y modernización de cableado eléctrico.",
+    "imagenes": [
+      "./img/modernizacion_cableado_1.jpg",
+      "../img/modernizacion_cableado_2.jpg",
+      "./img/modernizacion_cableado_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_05",
+    "titulo": "⚡ Instalación de iluminación LED interior y exterior.",
+     "imagenes": [
+      "../img/iluminacon_led_1.jpg",
+      "./img/iluminacon_led_2.jpg",
+      "./img/iluminacon_led_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_06",
+    "titulo": "⚡ Instalación y cambio de tableros eléctricos.",
+    "imagenes": [
+      "./img/cambio_tableros_1.jpeg",
+      "./img/cambio_tableros_2.jpeg",
+      "./img/cambio_tableros_3.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_07",
+    "titulo": "⚡ Revisión y corrección de fallas eléctricas.",
+    "imagenes": [
+      "./img/correcion_fallas_1.jpeg",
+      "./img/correcion_fallas_2.jpeg",
+      "./img/correcion_fallas_3.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_08",
+    "titulo": "⚡ Mantenimiento preventivo y correctivo.",
+      "imagenes": [
+      "./img/preventivo_1.jpg",
+      "./img/preventivo_2.jpg",
+      "./img/preventivo_3.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_09",
+    "titulo": "⚡ Instalación de sensores de movimiento.",
+    "imagenes": [
+      "./img/sensores_1.jpg",
+      "./img/sensores_2.jpg",
+      "./img/sensores_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_10",
+    "titulo": "⚡ Iluminación de jardines y fachadas.",
+    "imagenes": [
+      "./img/luminarias_jardin_1.webp",
+      "./img/luminarias_jardin_2.webp",
+      "./img/luminarias_jardin_3.webp"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_11",
+    "titulo": "⚡🏭 Circuitos Regulados y Energía Crítica.",
+    "imagenes": [
+      "./img/circuitos regulados-1.jpg",
+      "./img/WhatsApp Image 2025-12-04 at 8.53.01 PM.jpeg",
+      "./img/WhatsApp Image 2025-12-04 at 8.53.02 PM.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_12",
+    "titulo": "⚡🏭 Instalación de tableros para circuitos regulados.",
+    "imagenes": [
+      "./img/regulados_tab_1.jpg",
+      "./img/regulados_tab_2.jpg",
+      "./img/regulados_tab_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_13",
+    "titulo": "⚡🏭 Sistemas UPS y Respaldo de Energía.",
+    "imagenes": [
+      "./img/ups_1.jpeg",
+      "./img/ups_2.jpeg",
+      "./img/ups_3.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_14",
+    "titulo": "⚡🏭  Mantenimiento preventivo y correctivo de UPS.",
+    "imagenes": [
+      "./img/mant_ups_1.jpeg",
+      "./img/mant_ups_2.jpeg",
+      "./img/mant_ups_3.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+
+  {
+    "id": "remodelacion_15",
+    "titulo": "⚡🏭 Cambio y gestión de bancos de baterías.",
+     "imagenes": [
+      "./img/banco-baterias_1.jpg",
+      "./img/banco-baterias_2.jpg",
+      "./img/banco-baterias_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+  {
+    "id": "remodelacion_16",
+    "titulo": "⚡🏭 Plantas Eléctricas.",
+    "imagenes": [
+      "./img/plata-elctrica_1.webp",
+      "./img/plata-elctrica_2.webp",
+      "./img/plata-elctrica_3.webp"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+   {
+    "id": "remodelacion_17",
+    "titulo": "⚡🏭 Instalación de tableros de transferencia automática (ATS).",
+    "imagenes": [
+      "./img/tranfercias_1.gif",
+      "./img/tranfercias_2.gif",
+      "./img/tranfercias_3.gif"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+   {
+    "id": "remodelacion_18",
+    "titulo": "⚡🏭 Pruebas de carga y puesta en marcha.",
+    "imagenes": [
+      "./img/pruevas_1.jpeg",
+      "./img/pruevas_2.jpeg",
+      "./img/pruevas_3.jpeg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  },
+   {
+    "id": "remodelacion_19",
+    "titulo": "⚡🏭 Montaje de subestaciones eléctricas",
+    "imagenes": [
+      "./img/subestaciones_1.jpg",
+      "./img/subestaciones_2.jpg",
+      "./img/subestaciones_3.jpg"
+    ],
+    "categoria": {
+      "nombre": "servicio",
+      "id": "electric"
+    }
+  }
+
+]

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora 2025 Colombia </title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="main-columns">
+        <div class="container">
+            <h1>Calculadora de Precios de Construcción</h1>
+            <form id="calc-form">
+                <label for="category">Categoría:</label>
+                <select id="category" required>
+                    <option value="">Seleccione una categoría</option>
+                    <option value="remodelacion">Remodelación</option>
+                    <option value="plomeria">Plomería</option>
+                    <option value="electricidad">Electricidad</option>
+                    <option value="pintura">Pintura</option>
+                    <option value="carpinteria">Carpintería</option>
+                    <option value="ventaneria">Ventanería</option>
+                    <option value="limpieza">Limpieza</option>
+                    <option value="acabados">Acabados</option>
+                    <option value="mano_obra_oficios">Tarifas Mano de Obra por Oficio</option>
+                </select>
+
+                <label for="service">Servicio:</label>
+                <select id="service" required>
+                    <option value="">Seleccione un servicio</option>
+                </select>
+
+                <label for="tipo-precio">Tipo de precio:</label>
+                <select id="tipo-precio" required>
+                    <option value="mano_obra">Mano de Obra</option>
+                    <option value="todo_costo">Todo Costo</option>
+                </select>
+                <div id="ayuda-tarifa-limpieza" style="display:none; font-size:0.95em; color:#555; margin-bottom:10px;">
+                    <strong>Valor Base:</strong> Servicio diurno normal.<br>
+                    <strong>Nocturno:</strong> Servicio realizado en la noche (+35%).<br>
+                    <strong>Festivo:</strong> Servicio en día festivo (+100%).
+                </div>
+
+                <label for="cantidad">Cantidad (m², unidades, días, etc):</label>
+                <input type="number" id="cantidad" min="1" value="1" required>
+
+                <button type="submit">Calcular</button>
+            </form>
+            <div id="resultado"></div>
+        </div>
+      
+    </div>
+    <div id="botones-fijos">
+        <button id="descargar-pdf">Descargar cotización (PDF)</button>
+        <button id="vaciar-carrito" style="display:none;">Limpiar cotización</button>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="./logica.js"></script>
+    <script>
+    // Mostrar/ocultar ayuda de tarifa limpieza
+    const categorySelect = document.getElementById('category');
+    const ayudaTarifa = document.getElementById('ayuda-tarifa-limpieza');
+    categorySelect.addEventListener('change', function() {
+        if (this.value === 'limpieza') {
+            ayudaTarifa.style.display = 'block';
+        } else {
+            ayudaTarifa.style.display = 'none';
+        }
+    });
+    </script>
+</body>
+</html>
